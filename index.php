@@ -9,6 +9,7 @@
 </head>
 <body>
     <h1>Твой Заголовок 1</h1>
+    <p>Первая часть</p>
     
 
     <script src='/js/main.js'></script>
